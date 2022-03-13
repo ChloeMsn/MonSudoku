@@ -1,0 +1,12 @@
+Package: NewPackage
+Type: Package
+Title: Backtracking 
+Version: 1.0
+Date: 2022-03-13
+Author: Chloe MASON
+Maintainer: Chloe MASON chloe.mason@etu.umontpellier.fr
+Description: this package implements the backtracking methods to solve a sudoku. I do not own this code, see link : 
+    https://cppsecrets.com/users/96531181051109712199104111112114975750461189964103109971051084699111109/Sudoku-solver-Backtracking.php 
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.8)
+LinkingTo: Rcpp
