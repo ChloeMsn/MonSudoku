@@ -9,7 +9,7 @@
 
 trouveSolution<-function(m){
   library("Rcpp")
-  sourceCpp("~/Desktop/projetR/MonSudoku/NewPackage/src/test.cpp")
+  sourceCpp("./NewPackage/src/test.cpp")
   if (solveSudoku(m)==TRUE){
     return("solution existante")
   }
