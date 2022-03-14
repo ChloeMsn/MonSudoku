@@ -18,7 +18,3 @@ Given a matrix, find if a solution exists
 \details{
 A function to find if a solution for a sudoku grid
 }
-\examples{
-m<-creationMatrice()
-trouveSolution(m)
-}
